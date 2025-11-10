@@ -1,4 +1,3 @@
 # NIE-training
 
-Hello NIE
-I am Saaim
+Hello NIE, pull
